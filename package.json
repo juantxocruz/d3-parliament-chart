@@ -1,7 +1,7 @@
 {
-  "name": "webpack-starter",
+  "name": "d3-parliament-chart",
   "version": "1.0.0",
-  "description": "A light foundation for your next frontend project based on webpack 5.",
+  "description": "parliament / congress / legislature charts simplified",
   "scripts": {
     "lint": "npm run lint:styles; npm run lint:scripts",
     "lint:styles": "stylelint src",
